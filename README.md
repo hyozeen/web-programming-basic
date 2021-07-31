@@ -24,10 +24,9 @@ https://www.w3schools.com/css/css_selectors.asp
 ### JS Variables
 https://www.w3schools.com/js/js_variables.asp
 
-### Project
-* Naver login page
+### Project (Naver login page)
 
-- github에 로그인 후, web-programming-basic 이라는 repository 만들기
+**github에 로그인 후, web-programming-basic 이라는 repository 만들기**
 1. https://github.com/
 2. 로그인
 3. Repository 만들기
@@ -35,7 +34,7 @@ https://www.w3schools.com/js/js_variables.asp
 4. Repository name 빈칸에 web-programming-basic 적고 `Create repository` 버튼 클릭
 <img width="762" alt="Screenshot 2021-07-31 at 20 22 43" src="https://user-images.githubusercontent.com/86503646/127738352-8357d6a5-7db6-4990-b9c5-7ff76cb6125a.png">
 
-- github page 만들기
+**github page 만들기**
 1. web-programming-basic repository 선택하기
 <img width="1352" alt="Screenshot 2021-07-31 at 20 24 58" src="https://user-images.githubusercontent.com/86503646/127738390-0bc55bfc-cee4-447d-991c-d189a3981b85.png">
 2. Settings > Pages
