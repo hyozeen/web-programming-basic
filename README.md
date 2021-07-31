@@ -96,3 +96,11 @@ git status
 git commit -m 'Init naver code'
 git push origin main
 ```
+
+7. github 들어가서 코드가 잘 업로드 되었는지 확인
+<img width="1002" alt="Screenshot 2021-07-31 at 21 08 05" src="https://user-images.githubusercontent.com/86503646/127739407-673e2027-7e17-4c85-9ca6-801c6c4fad7c.png">
+
+8. github page 들어가서 코드가 잘 올라갔는지 확인
+https://hyozeen.github.io/web-programming-basic/naver/index.html
+
+<img width="380" alt="Screenshot 2021-07-31 at 21 09 56" src="https://user-images.githubusercontent.com/86503646/127739434-9041a80b-c2f4-49f0-9476-7bbe1f2f30c5.png">
