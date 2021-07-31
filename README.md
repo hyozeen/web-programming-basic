@@ -45,5 +45,23 @@ Branch: main > root > save 클릭
 4. 브라우저 주소창에서 확인
 <img width="869" alt="Screenshot 2021-07-31 at 20 29 40" src="https://user-images.githubusercontent.com/86503646/127738512-07437069-257d-47c7-a4c8-f94500ae7dad.png">
 
-- web-programming-basic repository git clone 받기
-- naver라는 폴더 만들고, index.html, main.js, style.css 파일 만들어서 github에 push 하기
+**web-programming-basic repository git clone 받기**
+1. web-programming-basic repository 선택하기
+2. Codes 선택
+3. 주소 복사
+<img width="428" alt="Screenshot 2021-07-31 at 20 33 48" src="https://user-images.githubusercontent.com/86503646/127738611-4a98c480-24ac-453f-9ddd-9a4c6d9c5ffb.png">
+4. Finder 실행하기
+5. Documents > programming 폴더 만들기
+6. vscode 실행하기
+7. New Window 열기
+<img width="263" alt="Screenshot 2021-07-31 at 20 36 58" src="https://user-images.githubusercontent.com/86503646/127738682-d37a6c2d-47bf-4f38-a4df-ae9961f371ca.png">
+8. Open Folder 클릭 > programming 폴더 열기
+<img width="176" alt="Screenshot 2021-07-31 at 20 38 38" src="https://user-images.githubusercontent.com/86503646/127738730-3717bba6-c35f-4985-af6a-3b9b3803185c.png">
+9. <kbd> control + ` </kbd> 단축키로 터미널 열기
+10. git clone 하기
+<img width="1076" alt="Screenshot 2021-07-31 at 20 42 06" src="https://user-images.githubusercontent.com/86503646/127738800-f6f282a2-ad58-49e9-ad53-47455b859509.png">
+11. 왼쪽 Explorer 창에 web-programming-basic 폴더가 만들어졌으면 성공
+<img width="267" alt="Screenshot 2021-07-31 at 20 42 44" src="https://user-images.githubusercontent.com/86503646/127738818-9f7d5222-70f4-42ba-9f22-54dfa3e16449.png">
+
+**naver라는 폴더 만들고, index.html, main.js, style.css 파일 만들어서 github에 push 하기**
+
