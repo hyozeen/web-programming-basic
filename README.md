@@ -71,7 +71,28 @@ Branch: main > root > save 클릭
 <img width="270" alt="Screenshot 2021-07-31 at 20 47 34" src="https://user-images.githubusercontent.com/86503646/127738939-c2133d6e-77bd-4277-ab3b-e9838ed9384c.png">
 <img width="255" alt="Screenshot 2021-07-31 at 20 48 37" src="https://user-images.githubusercontent.com/86503646/127738951-7d8f9390-da16-4676-b1e9-c908faee2c3b.png">
 3. index.html 파일 열어서 아래 코드 복사해 넣기
-```html
 
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Naver</title>
+    </head>
+    <body>
+        <h1>Naver</h1>
+    </body>
+</html>
 ```
 
+4. index.html 파일 저장
+5. Explorer의 web-programming-basic 폴더 위에서 우클릭 > Open in Terminal 선택
+6. 아래 터미널에서 다음 명령어 실행
+
+```sh
+git status
+git add naver/*
+git status
+git commit -m 'Init naver code'
+git push origin main
+```
