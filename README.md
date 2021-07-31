@@ -26,7 +26,7 @@ https://www.w3schools.com/js/js_variables.asp
 
 ### Project (Naver login page)
 
-**github에 로그인 후, web-programming-basic 이라는 repository 만들기**
+**1) github에 로그인 후, web-programming-basic 이라는 repository 만들기**
 1. https://github.com/
 2. 로그인
 3. Repository 만들기
@@ -34,7 +34,7 @@ https://www.w3schools.com/js/js_variables.asp
 4. Repository name 빈칸에 web-programming-basic 적고 `Create repository` 버튼 클릭
 <img width="762" alt="Screenshot 2021-07-31 at 20 22 43" src="https://user-images.githubusercontent.com/86503646/127738352-8357d6a5-7db6-4990-b9c5-7ff76cb6125a.png">
 
-**github page 만들기**
+**2) github page 만들기**
 1. web-programming-basic repository 선택하기
 <img width="1352" alt="Screenshot 2021-07-31 at 20 24 58" src="https://user-images.githubusercontent.com/86503646/127738390-0bc55bfc-cee4-447d-991c-d189a3981b85.png">
 2. Settings > Pages
@@ -45,7 +45,7 @@ Branch: main > root > save 클릭
 4. 브라우저 주소창에서 확인
 <img width="869" alt="Screenshot 2021-07-31 at 20 29 40" src="https://user-images.githubusercontent.com/86503646/127738512-07437069-257d-47c7-a4c8-f94500ae7dad.png">
 
-**web-programming-basic repository git clone 받기**
+**3) web-programming-basic repository git clone 받기**
 1. web-programming-basic repository 선택하기
 2. Codes 선택
 3. 주소 복사
@@ -63,5 +63,15 @@ Branch: main > root > save 클릭
 11. 왼쪽 Explorer 창에 web-programming-basic 폴더가 만들어졌으면 성공
 <img width="267" alt="Screenshot 2021-07-31 at 20 42 44" src="https://user-images.githubusercontent.com/86503646/127738818-9f7d5222-70f4-42ba-9f22-54dfa3e16449.png">
 
-**naver라는 폴더 만들고, index.html, main.js, style.css 파일 만들어서 github에 push 하기**
+**4) naver라는 폴더 만들고, index.html, main.js, style.css 파일 만들어서 github에 push 하기**
+1. Explorer 의 web-programming-basic 폴더 위에서 우클릭 > New Folder 클릭 > naver 폴더 만들기
+<img width="361" alt="Screenshot 2021-07-31 at 20 44 36" src="https://user-images.githubusercontent.com/86503646/127738875-658fa7f2-9fe9-4c24-b509-20f5b7975459.png">
+<img width="273" alt="Screenshot 2021-07-31 at 20 45 53" src="https://user-images.githubusercontent.com/86503646/127738896-f2f21186-e509-4012-8194-abba9e8c7e02.png">
+2. Explorer 의 web-programming-basic 폴더 안에 있는 naver 폴더에서 우클릭 > New File 클릭 > index.html, main.js, style.css 파일 만들기
+<img width="270" alt="Screenshot 2021-07-31 at 20 47 34" src="https://user-images.githubusercontent.com/86503646/127738939-c2133d6e-77bd-4277-ab3b-e9838ed9384c.png">
+<img width="255" alt="Screenshot 2021-07-31 at 20 48 37" src="https://user-images.githubusercontent.com/86503646/127738951-7d8f9390-da16-4676-b1e9-c908faee2c3b.png">
+3. index.html 파일 열어서 아래 코드 복사해 넣기
+```html
+
+```
 
