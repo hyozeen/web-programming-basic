@@ -11,6 +11,8 @@
 ### JS Variables
 https://www.w3schools.com/js/js_variables.asp
 
+var, let, const 비교 : https://heinafantasy.com/153
+
 ### Project (Naver login page)
 
 **1) github에 로그인 후, web-programming-basic 이라는 repository 만들기**
