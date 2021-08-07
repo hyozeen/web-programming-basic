@@ -11,6 +11,9 @@
 ### HTML Headings
 https://www.w3schools.com/html/html_headings.asp
 
+### How to add CSS
+https://www.w3schools.com/css/css_howto.asp
+
 ### JS Variables
 https://www.w3schools.com/js/js_variables.asp
 
