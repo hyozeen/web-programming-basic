@@ -8,6 +8,9 @@
 ### 변수
 <img width="798" alt="Screenshot 2021-08-07 at 09 21 11" src="https://user-images.githubusercontent.com/86503646/128581756-f69a3dd6-0e87-48b0-bd29-f271b310ebda.png">
 
+### HTML Headings
+https://www.w3schools.com/html/html_headings.asp
+
 ### JS Variables
 https://www.w3schools.com/js/js_variables.asp
 
