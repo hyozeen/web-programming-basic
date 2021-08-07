@@ -21,7 +21,7 @@ var, let, const 비교 : https://heinafantasy.com/153
 
 ### Project (Naver login page)
 
-**1) html에 main.js, style.css 파일 external로 링크 
+**1) html에 main.js, style.css 파일 external로 링크 걸기
 
 ```html
 <!DOCTYPE html>
@@ -35,3 +35,5 @@ var, let, const 비교 : https://heinafantasy.com/153
     </body>
 </html>
 ```
+
+**2) github에 코드 push 하기
