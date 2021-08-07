@@ -21,7 +21,7 @@ var, let, const 비교 : https://heinafantasy.com/153
 
 ### Project (Naver login page)
 
-**1) github에 로그인 후, web-programming-basic 이라는 repository 만들기**
+**1) html에 main.js, style.css 파일 external로 링크 
 
 ```html
 <!DOCTYPE html>
