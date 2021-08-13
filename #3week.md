@@ -37,19 +37,4 @@ https://www.w3schools.com/js/js_operators.asp
 
 ### Project (Naver login page)
 
-**1) html에 main.js, style.css 파일 external로 링크 걸기
-
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Naver</title>
-    </head>
-    <body>
-        <h1>Naver</h1>
-    </body>
-</html>
-```
-
-**2) github에 코드 push 하기
+**1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요.
