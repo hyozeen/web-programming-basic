@@ -26,19 +26,14 @@
 - https://blog.naver.com/mocienews/222133534889
 - https://opentutorials.org/course/3084/18889
 
-### 변수
-<img width="798" alt="Screenshot 2021-08-07 at 09 21 11" src="https://user-images.githubusercontent.com/86503646/128581756-f69a3dd6-0e87-48b0-bd29-f271b310ebda.png">
+### HTML Paragraphs
+https://www.w3schools.com/html/html_paragraphs.asp
 
-### HTML Headings
-https://www.w3schools.com/html/html_headings.asp
+### CSS Backgrounds
+https://www.w3schools.com/css/css_background.asp
 
-### How to add CSS
-https://www.w3schools.com/css/css_howto.asp
-
-### JS Variables
-https://www.w3schools.com/js/js_variables.asp
-
-var, let, const 비교 : https://heinafantasy.com/153
+### JS Operators
+https://www.w3schools.com/js/js_operators.asp
 
 ### Project (Naver login page)
 
