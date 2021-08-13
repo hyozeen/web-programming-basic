@@ -22,9 +22,9 @@
 
     ![WorldWideWeb](https://user-images.githubusercontent.com/86503646/129425481-d4624bb4-ae53-4b1d-ab30-d5931eb1b31c.png)
 
-https://blog.naver.com/bzz_/222147171943
-https://blog.naver.com/mocienews/222133534889
-https://opentutorials.org/course/3084/18889
+- https://blog.naver.com/bzz_/222147171943
+- https://blog.naver.com/mocienews/222133534889
+- https://opentutorials.org/course/3084/18889
 
 ### 변수
 <img width="798" alt="Screenshot 2021-08-07 at 09 21 11" src="https://user-images.githubusercontent.com/86503646/128581756-f69a3dd6-0e87-48b0-bd29-f271b310ebda.png">
