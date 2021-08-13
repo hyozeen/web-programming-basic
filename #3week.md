@@ -37,4 +37,4 @@ https://www.w3schools.com/js/js_operators.asp
 
 ### Project (Naver login page)
 
-**1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요.
+1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요.
