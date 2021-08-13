@@ -9,15 +9,18 @@
     - 하나가 파괴되어도 나머지가 그 역할을 하게 됨
     - 30년 동안 대학, 군대, 기업들만 사용하는 특별한 시스템
     - 인터넷 서비스의 종류 (www, e-mail, ftp)
+    
+    ![internet](https://user-images.githubusercontent.com/86503646/129424382-3c003ba8-ab36-4aca-9759-7b9345fa984b.JPG)
     ![network](https://user-images.githubusercontent.com/86503646/129424848-c0700af5-9f27-4650-b530-298988c0ee58.JPG)
 
 - 웹 : 인터넷에 연결된 사용자들이 정보를 공유할 수 있는 공간 (스위스 - 1990)
-![internet](https://user-images.githubusercontent.com/86503646/129424382-3c003ba8-ab36-4aca-9759-7b9345fa984b.JPG)
     - 유럽 입자 물리연구소 컴퓨터 관리자 비정규직 버너스 리
     - 1990.11월 : 세계 최초의 웹브라우저 개발(www)
     - 1990.12월 크리스마스 이브 : 웹서버 개발
     - 세계 최초의 사이트 : http://info.cern.ch
-    - W3C
+    - W3C : 저작권, 사용료 요구 없이 전세계에 무료 기부
+
+    ![WorldWideWeb](https://user-images.githubusercontent.com/86503646/129425481-d4624bb4-ae53-4b1d-ab30-d5931eb1b31c.png)
 
 https://blog.naver.com/bzz_/222147171943
 https://blog.naver.com/mocienews/222133534889
