@@ -42,6 +42,6 @@ https://www.w3schools.com/js/js_operators.asp
 
 2) naver 폴더 안에 images 폴더 만들기
 <img width="455" alt="ableton" src="https://user-images.githubusercontent.com/86503646/129429012-51f862fc-5a53-4145-bf56-4932ee76ecb6.png">
-![splice](https://user-images.githubusercontent.com/86503646/129429017-7227c230-f765-4f70-8cde-0a53e9f59fb3.png)
+![splice](https://user-images.githubusercontent.com/86503646/129429036-9972b280-6e3e-4cd4-9c74-82e0b766f3c4.png)
 
 3) 나머지는 배운 내용 활용해서 만들어 봅시다. 
