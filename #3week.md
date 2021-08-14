@@ -38,3 +38,10 @@ https://www.w3schools.com/js/js_operators.asp
 ### Project (Naver login page)
 
 1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요.
+<img width="1440" alt="Screenshot 2021-08-14 at 09 28 09" src="https://user-images.githubusercontent.com/86503646/129428967-0f82f5d6-a4f5-4b93-a755-995b36e6f9a4.png">
+
+2) naver 폴더 안에 images 폴더 만들기
+<img width="455" alt="ableton" src="https://user-images.githubusercontent.com/86503646/129429012-51f862fc-5a53-4145-bf56-4932ee76ecb6.png">
+![splice](https://user-images.githubusercontent.com/86503646/129429017-7227c230-f765-4f70-8cde-0a53e9f59fb3.png)
+
+3) 나머지는 배운 내용 활용해서 만들어 봅시다. 
