@@ -40,7 +40,7 @@ https://www.w3schools.com/js/js_operators.asp
 1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요.
 <img width="1433" alt="Screenshot 2021-08-14 at 09 34 45" src="https://user-images.githubusercontent.com/86503646/129429198-904f54fa-1a66-44e6-a1ff-dea260185718.png">
 
-2) naver 폴더 안에 images 폴더 만들기
+2) naver 폴더 안에 images 폴더 만들고, 아래 이미지 다운로드 받아서 
 <img width="455" alt="ableton" src="https://user-images.githubusercontent.com/86503646/129429124-a1f53f59-fa38-41fa-8e85-43e28b28fc77.png">
 <img width="455" alt="splice" src="https://user-images.githubusercontent.com/86503646/129429111-f60da4f8-0915-49ca-a6bd-791e94a66228.png">
 
