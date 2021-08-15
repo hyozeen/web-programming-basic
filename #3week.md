@@ -54,6 +54,8 @@ https://www.w3schools.com/js/js_operators.asp
 
 #### Homework 2
 1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week3 라는 폴더를 만들고 코드 올리세요.
+<img width="1439" alt="Screenshot 2021-08-15 at 10 48 14" src="https://user-images.githubusercontent.com/86503646/129464401-fd14d475-7ab6-479c-a4b9-5393388df00d.png">
+
 2) 유튜브 영상 넣는 방법
 - 공유 버튼 클릭
 <img width="565" alt="Screenshot 2021-08-15 at 10 32 07" src="https://user-images.githubusercontent.com/86503646/129464185-9a113599-4a3e-4ae2-8a4f-8bdf3e353b5e.png">
@@ -64,3 +66,10 @@ https://www.w3schools.com/js/js_operators.asp
 - body tag 안에 iframe 내용 붙여넣기
 <img width="773" alt="Screenshot 2021-08-15 at 10 33 25" src="https://user-images.githubusercontent.com/86503646/129464192-65e3cf65-7a6a-4455-9869-dad8b637507f.png">
 
+3) 반드시 포함해야 할 내용
+-  Homework는 **h1** tag 사용
+-  터키터키는 **h2** tag 사용
+-  이용진은 **h3** tag 사용
+-  본문 내용은 **p** tag 사용
+-  중간중간 사람이름에 대해서는 **span** tag 사용하고, 같은 이름은 같은 폰트 색상으로 만들기
+-  줄바꿈은 **br** tag 사용
