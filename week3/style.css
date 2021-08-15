@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h3 {
+    color: skyblue;
+}
+
+span.lee {
+    color: aquamarine;
+}
+
+span.park {
+    color: green;
+}
+
+span.nam {
+    color: cyan;
+}
+
+span.yang {
+    color: lemonchiffon;
+}
+
+span.hong {
+    color: orange;
+}
