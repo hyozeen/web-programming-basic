@@ -55,7 +55,11 @@ https://www.w3schools.com/js/js_operators.asp
 #### Homework 2
 1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week3 라는 폴더를 만들고 코드 올리세요.
 2) 유튜브 영상 넣는 방법
+- 공유 버튼 클릭
 <img width="977" alt="Screenshot 2021-08-15 at 10 16 05" src="https://user-images.githubusercontent.com/86503646/129463921-897ab9e9-6abd-4dd2-99c9-d8422025c16d.png">
+- 퍼가기 버튼 클릭
 <img width="544" alt="Screenshot 2021-08-15 at 10 16 19" src="https://user-images.githubusercontent.com/86503646/129463922-a6ad18b1-e6c6-46da-8c6b-b17e046c9064.png">
+- **iframe** tag 복사하기
 <img width="616" alt="Screenshot 2021-08-15 at 10 16 27" src="https://user-images.githubusercontent.com/86503646/129463923-057081db-1634-48ea-94ff-32caa5c4ce19.png">
+- **body** tag 안에 iframe 내용 붙여넣기
 <img width="765" alt="Screenshot 2021-08-15 at 10 18 01" src="https://user-images.githubusercontent.com/86503646/129463935-4fed7309-7ffb-459a-b782-a8ed4fc4fda2.png">
