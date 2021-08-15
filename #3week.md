@@ -37,6 +37,7 @@ https://www.w3schools.com/js/js_operators.asp
 
 ### Project (Naver login page)
 
+#### Homework 1
 1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요.
 <img width="1433" alt="Screenshot 2021-08-14 at 09 34 45" src="https://user-images.githubusercontent.com/86503646/129429198-904f54fa-1a66-44e6-a1ff-dea260185718.png">
 
@@ -50,3 +51,5 @@ https://www.w3schools.com/js/js_operators.asp
 -  Go to Ableton은 **a** tag 사용
 -  본문 내용은 **p** tag 사용
 -  logo는 **img** tag 사용. logo에 마우스 올리면 tooltip 나오도록 만들기
+
+#### Homework 2
