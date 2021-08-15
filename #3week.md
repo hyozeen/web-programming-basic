@@ -54,6 +54,8 @@ https://www.w3schools.com/js/js_operators.asp
 
 #### Homework 2
 1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week3 라는 폴더를 만들고 코드 올리세요.
+<img width="255" alt="Screenshot 2021-08-15 at 10 52 44" src="https://user-images.githubusercontent.com/86503646/129464475-47376ec7-f6ff-4f26-aaa2-66f298ab4bc1.png">
+
 <img width="1439" alt="Screenshot 2021-08-15 at 10 48 14" src="https://user-images.githubusercontent.com/86503646/129464401-fd14d475-7ab6-479c-a4b9-5393388df00d.png">
 
 2) 유튜브 영상 넣는 방법
