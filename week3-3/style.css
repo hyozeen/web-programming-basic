@@ -1,0 +1,16 @@
+img {
+    width: 300px;
+    height: auto;
+}
+
+img.homer {
+    opacity: 0.9;
+}
+
+img.bart {
+    opacity: 0.5;
+}
+
+img.maggie {
+    opacity: 0.2;
+}
