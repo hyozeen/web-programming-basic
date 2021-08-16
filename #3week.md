@@ -81,6 +81,9 @@ https://www.w3schools.com/js/js_operators.asp
 <img width="842" alt="Screenshot 2021-08-16 at 18 47 06" src="https://user-images.githubusercontent.com/86503646/129544881-02289f6b-68d7-4f97-96b2-9b23bd273459.png">
 <img width="886" alt="Screenshot 2021-08-16 at 18 47 15" src="https://user-images.githubusercontent.com/86503646/129544898-4f89ab6d-a917-4d5b-83d3-257a3470304b.png">
 
+이미지 다운로드
+[images.zip](https://github.com/hyozeen/web-programming-basic/files/6991407/images.zip)
+
 2) 반드시 포함해야 할 내용
 - web-programming-basic/week3-3/images 폴더에 이미지 뷱사
 - Simpson Family 는 h1 tag 사용
