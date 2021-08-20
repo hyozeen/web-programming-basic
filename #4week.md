@@ -19,11 +19,15 @@
 
 - Table (예전 방식, 비추)
 
+<td colspan="합칠 셀의 개수">내용</td>
+<td rowspan="합칠 셀의 개수">내용</td>
+
 <img width="704" alt="Screenshot 2021-08-21 at 04 41 06" src="https://user-images.githubusercontent.com/86503646/130285565-c7e5188b-9e12-4a8d-88b2-37341a1b0b1b.png">
 
 <img width="701" alt="Screenshot 2021-08-21 at 04 45 33" src="https://user-images.githubusercontent.com/86503646/130286006-e052c3e1-0086-47b8-872f-7c411208b6dd.png">
 
 https://blog.naver.com/dsz08082/221903006189
+https://2018-start.tistory.com/21
 
 ### HTML Styles
 https://www.w3schools.com/html/html_styles.asp
