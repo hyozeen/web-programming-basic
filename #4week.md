@@ -57,3 +57,4 @@ https://www.w3schools.com/js/js_functions.asp
 - Homer, Bart, Maggie 각각 이미지의 opacity를 다르게 준다. (opacity 0.9, 0.5, 0.2)
 - 모든 img tag는 엑스 박스에 대비하여 각 심슨의 이름이 나오도록 한다.
 - 모든 img tag는 tooltip으로 각 심슨의 이름이 나오도록 한다. 
+- 
