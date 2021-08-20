@@ -19,8 +19,10 @@
 
 - Table (예전 방식, 비추)
 
+```xml
 <td colspan="합칠 셀의 개수">내용</td>
 <td rowspan="합칠 셀의 개수">내용</td>
+```
 
 <img width="704" alt="Screenshot 2021-08-21 at 04 41 06" src="https://user-images.githubusercontent.com/86503646/130285565-c7e5188b-9e12-4a8d-88b2-37341a1b0b1b.png">
 
