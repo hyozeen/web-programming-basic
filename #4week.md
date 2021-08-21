@@ -47,18 +47,6 @@ https://www.w3schools.com/js/js_functions.asp
 
 ### Project (Naver login page)
 
-### Homework 3
-1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week3-3 이라는 폴더를 만들고 코드 올리세요.
-<img width="842" alt="Screenshot 2021-08-16 at 18 47 06" src="https://user-images.githubusercontent.com/86503646/129544881-02289f6b-68d7-4f97-96b2-9b23bd273459.png">
-<img width="886" alt="Screenshot 2021-08-16 at 18 47 15" src="https://user-images.githubusercontent.com/86503646/129544898-4f89ab6d-a917-4d5b-83d3-257a3470304b.png">
+### Homework 1
+1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week4-1 이라는 폴더를 만들고 코드 올리세요.
 
-2) 반드시 포함해야 할 내용
-- 이미지는 여기서 다운로드 한다. [images.zip](https://github.com/hyozeen/web-programming-basic/files/6991407/images.zip)
-- web-programming-basic/week3-3/images 폴더에 이미지 뷱사
-- Simpson Family 는 h1 tag 사용
-- Homer Simpson, Bart Simpson, Maggie Simple 은 h2 tag 사용
-- 이미지 삽입에는 img tag 사용 (단, 모든 img의 width는 300px, height은 auto 로 통일한다)
-- Homer, Bart, Maggie 각각 이미지의 opacity를 다르게 준다. (opacity 0.9, 0.5, 0.2)
-- 모든 img tag는 엑스 박스에 대비하여 각 심슨의 이름이 나오도록 한다.
-- 모든 img tag는 tooltip으로 각 심슨의 이름이 나오도록 한다. 
-- 
