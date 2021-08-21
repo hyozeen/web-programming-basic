@@ -53,20 +53,12 @@
 2) image는 여기에서 다운로드
 [images.zip](https://github.com/hyozeen/web-programming-basic/files/7024605/images.zip)
 
-3) index.html은 아래 내용 복사해서 사용
+3) index.html의 body tag는 아래 내용 복사해서 사용
 ```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8" />
-        <title>background</title>
-        <link rel="stylesheet" href="style.css" />
-    </head>
-    <body>
-        <h1>Background Homework</h1>
-        <main></main>
-    </body>
-</html>
+<body>
+    <h1>Background Homework</h1>
+    <main></main>
+</body>
 ```
 
 4) 반드시 포함해야 할 내용
