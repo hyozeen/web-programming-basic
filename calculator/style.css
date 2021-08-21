@@ -1,14 +1,43 @@
 #calculator {
-    width: 1000px;
-    height: 1000px;
+    position: absolute;
+    width: 234px;
+    height: 324px;
     background-image: url('images/calculator.png');
     background-position: top left;
     background-repeat: no-repeat;
 }
 
-button {
-    width: 100px;
-    height: 100px;
-    background-color: coral;
-    opacity: 0.6;
+.output {
+    margin-top: 30px;
+    width: 100%;
+    height: 50px;
+}
+
+.output label {
+    width: 100%;
+    height: 100%;
+    font-size: 50px;
+    line-height: 50px;
+    padding-left: 8px;
+    color: floralwhite;
+}
+
+.number {
+    width: 100%;
+    height: 243px;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+}
+
+tr {
+    width: 100%;
+    height: 46px;
+}
+
+td {
+    width: 48px;
+    height: 100%;
 }
