@@ -28,8 +28,8 @@
 
 <img width="701" alt="Screenshot 2021-08-21 at 04 45 33" src="https://user-images.githubusercontent.com/86503646/130286006-e052c3e1-0086-47b8-872f-7c411208b6dd.png">
 
-https://blog.naver.com/dsz08082/221903006189
-https://2018-start.tistory.com/21
+- https://blog.naver.com/dsz08082/221903006189
+- https://2018-start.tistory.com/21
 
 ### HTML Styles
 https://www.w3schools.com/html/html_styles.asp
