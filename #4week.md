@@ -40,9 +40,8 @@
 - https://www.w3schools.com/css/css_background_image.asp
 - https://www.w3schools.com/css/css_background_repeat.asp
 
-### JS Data Types, Functions
+### JS Data Types
 - https://www.w3schools.com/js/js_datatypes.asp
-- https://www.w3schools.com/js/js_functions.asp
 
 
 ### Project (Naver login page)
