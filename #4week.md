@@ -49,5 +49,24 @@
 ### Homework 1
 1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week4-1 이라는 폴더를 만들고 코드 올리세요.
 ![Screenshot 2021-08-21 at 09 53 08](https://user-images.githubusercontent.com/86503646/130305452-02064e4c-dd52-46d2-bc63-8fd401ab7f85.png)
+
+2) image는 여기에서 다운로드
 [images.zip](https://github.com/hyozeen/web-programming-basic/files/7024605/images.zip)
 
+3) index.html은 아래 내용 복사해서 사용
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>background</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <h1>Background Homework</h1>
+        <main></main>
+    </body>
+</html>
+```
+
+4) 
