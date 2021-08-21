@@ -1,0 +1,14 @@
+#calculator {
+    width: 1000px;
+    height: 1000px;
+    background-image: url('images/calculator.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+
+button {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    opacity: 0.6;
+}
