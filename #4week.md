@@ -7,6 +7,9 @@
 
 ![semantic](https://user-images.githubusercontent.com/86503646/130285278-ce916346-d280-4fc1-83d3-6dd32429e289.png)
 <img width="674" alt="Screenshot 2021-08-21 at 04 40 29" src="https://user-images.githubusercontent.com/86503646/130285514-5e04f4d8-4b75-4f8c-a580-f37244902163.png">
+![Screenshot 2021-08-21 at 10 04 18](https://user-images.githubusercontent.com/86503646/130305703-bd724bd5-4859-4536-bc18-7eb1d1c10140.png)
+![Screenshot 2021-08-21 at 10 02 27](https://user-images.githubusercontent.com/86503646/130305656-d1e64a41-8c26-4d9d-a672-522e1cef0cf2.png)
+
 
 - Div (쉽고, 자유도 높음, division의 약자, 레이아웃을 나누는데 쓰임)
 
@@ -48,4 +51,20 @@
 
 ### Homework 1
 1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week4-1 이라는 폴더를 만들고 코드 올리세요.
+![Screenshot 2021-08-21 at 09 53 08](https://user-images.githubusercontent.com/86503646/130305452-02064e4c-dd52-46d2-bc63-8fd401ab7f85.png)
 
+2) image는 여기에서 다운로드
+[images.zip](https://github.com/hyozeen/web-programming-basic/files/7024605/images.zip)
+
+3) index.html의 body tag는 아래 내용 복사해서 사용
+```html
+<body>
+    <h1>Background Homework</h1>
+    <main></main>
+</body>
+```
+
+4) 반드시 포함해야 할 내용
+- background pattern은 body tag 에 적용
+- 루피는 main tag 에 적용하고 가운데에 맞춘다
+- main tag의 width, height는 100%, 500px로 한다
