@@ -34,15 +34,15 @@
 - https://2018-start.tistory.com/21
 
 ### HTML Styles
-https://www.w3schools.com/html/html_styles.asp
+- https://www.w3schools.com/html/html_styles.asp
 
 ### CSS Backgrounds (image, repeat)
-https://www.w3schools.com/css/css_background_image.asp
-https://www.w3schools.com/css/css_background_repeat.asp
+- https://www.w3schools.com/css/css_background_image.asp
+- https://www.w3schools.com/css/css_background_repeat.asp
 
 ### JS Data Types, Functions
-https://www.w3schools.com/js/js_datatypes.asp
-https://www.w3schools.com/js/js_functions.asp
+- https://www.w3schools.com/js/js_datatypes.asp
+- https://www.w3schools.com/js/js_functions.asp
 
 
 ### Project (Naver login page)
