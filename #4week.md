@@ -69,4 +69,7 @@
 </html>
 ```
 
-4) 
+4) 반드시 포함해야 할 내용
+- background pattern은 body tag 에 적용
+- 루피는 main tag 에 적용하고 가운데에 맞춘다
+- main tag의 width, height는 100%, 500px로 한다
