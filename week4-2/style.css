@@ -1,0 +1,29 @@
+header {
+    top: 0px;
+    width: 100%;
+    height: 500px;
+    background-image: url('images/background-image.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.logo {
+    width: 100%;
+    height: 500px;
+    background-image: url('images/logo.png');
+    background-position: center;
+}
+
+main {
+    width: 100%;
+    height: 500px;
+}
+
+footer {
+    width: 100%;
+    height: 30px;
+}
+
+footer span {
+    float: right;
+}
