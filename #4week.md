@@ -68,3 +68,31 @@
 - background pattern은 body tag 에 적용
 - 루피는 main tag 에 적용하고 가운데에 맞춘다
 - main tag의 width, height는 100%, 500px로 한다
+
+### Homework 2
+1) 아래 모양과 비슷한 모양으로 만들어서 github에 올리세요. 단, web-programming-basic/week4-2 이라는 폴더를 만들고 코드 올리세요
+예시 1.
+![Screenshot 2021-08-25 at 18 37 51](https://user-images.githubusercontent.com/86503646/130769005-70571a9b-6f04-476c-9b60-e79e0317bf36.png)
+
+예시 2.
+![Screenshot 2021-08-25 at 18 39 03](https://user-images.githubusercontent.com/86503646/130769018-83c33358-877c-4f5f-b5b8-a7e1a0166077.png)
+
+
+2) 하스스톤 투명 logo는 여기에서 다운로드 하세요.
+[logo.png.zip](https://github.com/hyozeen/web-programming-basic/files/7045899/logo.png.zip)
+
+3) logo의 배경 이미지는 google에서 찾아서 적용하세요 (제시된 예시와 다른 이미지여야 합니다)
+4) index.html의 body tag는 아래 내용 복사해서 사용
+```html
+    <body>
+        <header>
+            <div class="logo"></div>
+        </header>
+        <main></main>
+        <footer>
+            <span>Copyright © 2021 Hyozeen. All Rights Reserved.</span>
+        </footer>
+    </body>
+```
+5) 반드시 포함해야 할 내용
+- header tag와 logo class은 width: 100%, height: 500px를 적용합니다.
