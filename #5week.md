@@ -4,8 +4,10 @@
 
 ### Javascript 시작점
 - window.onload
+우리가 html에서 열심히 만든 tag들을 브라우저에서 다 읽어오고 난 시점.
 ```js
 window.onload = function() {
+  // 이 코드를 복사해서 항상 main.js에 붙여넣습니다
   // 여기가 시작점 입니다
 }
 ```
