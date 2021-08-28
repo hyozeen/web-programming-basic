@@ -2,13 +2,30 @@
 
 ## 5 Week
 
-### Javascript 시작점
-- window.onload
+### Javascript 시작하기
+- window.onload (시작점)
 우리가 html에서 열심히 만든 tag들을 브라우저에서 다 읽어오고 난 시점.
 ```js
+// main.js
+
 window.onload = function() {
   // 이 코드를 복사해서 항상 main.js에 붙여넣습니다
   // 여기가 시작점 입니다
+}
+```
+- onClick (마우스로 클릭할 때)
+모든 tag들에 다 적용됨
+```html
+<!-- index.html -->
+
+<button type="button" onClick="clickButton()">클릭</button>
+```
+
+```js
+// main.js
+
+function clickButton() {
+  // 마우스를 클릭할 때, 불리는 곳입니다.
 }
 ```
 
