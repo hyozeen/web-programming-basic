@@ -3,8 +3,7 @@
 ## 5 Week
 
 ### Javascript 시작하기
-- window.onload (시작점)
-우리가 html에서 열심히 만든 tag들을 브라우저에서 다 읽어오고 난 시점.
+- window.onload (시작점) : 우리가 html에서 열심히 만든 tag들을 브라우저에서 다 읽어오고 난 시점.
 ```js
 // main.js
 
@@ -13,8 +12,7 @@ window.onload = function() {
     // 여기가 시작점 입니다
 }
 ```
-- onClick (마우스로 클릭할 때)
-모든 tag들에 다 적용됨
+- onClick (마우스로 클릭할 때) : 모든 tag들에 다 적용됨
 
 ```html
 <!-- index.html -->
