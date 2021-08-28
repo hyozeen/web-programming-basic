@@ -2,8 +2,13 @@
 
 ## 5 Week
 
-### Lifecycle
-
+### Javascript 시작점
+- window.onload
+```js
+window.onload = function() {
+  // 여기가 시작점 입니다
+}
+```
 
 ### HTML Formatting
 - https://www.w3schools.com/html/html_formatting.asp
