@@ -15,10 +15,11 @@ window.onload = function() {
 ```
 - onClick (마우스로 클릭할 때)
 모든 tag들에 다 적용됨
+
 ```html
 <!-- index.html -->
 
-<button type="button" onClick="clickButton()">클릭</button>
+<button onClick="clickButton()">클릭</button>
 ```
 
 ```js
@@ -29,8 +30,13 @@ function clickButton() {
 }
 ```
 
+![Screenshot 2021-08-28 at 18 18 53](https://user-images.githubusercontent.com/86503646/131213067-b56d8a28-cb39-4d50-a90e-f4d073b8298f.png)
+![Screenshot 2021-08-28 at 18 19 03](https://user-images.githubusercontent.com/86503646/131213072-9a0cac2a-3564-4b3c-9ecb-5222ed4a8cc8.png)
+
+
 - alert 함수
 알림창 팝업을 띄워주는 함수
+
 ```js
 // main.js
 
@@ -38,6 +44,8 @@ window.onload = function() {
     alert("Start!!!!!");
 }
 ```
+
+![Screenshot 2021-08-28 at 18 16 53](https://user-images.githubusercontent.com/86503646/131212999-23127bbb-1b81-4443-8228-25d3c1f4346d.png)
 
 ### HTML Formatting
 - https://www.w3schools.com/html/html_formatting.asp
