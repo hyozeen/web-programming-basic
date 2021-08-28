@@ -9,8 +9,8 @@
 // main.js
 
 window.onload = function() {
-  // 이 코드를 복사해서 항상 main.js에 붙여넣습니다
-  // 여기가 시작점 입니다
+    // 이 코드를 복사해서 항상 main.js에 붙여넣습니다
+    // 여기가 시작점 입니다
 }
 ```
 - onClick (마우스로 클릭할 때)
@@ -25,7 +25,17 @@ window.onload = function() {
 // main.js
 
 function clickButton() {
-  // 마우스를 클릭할 때, 불리는 곳입니다.
+    // 마우스를 클릭할 때, 불리는 곳입니다.
+}
+```
+
+- alert 함수
+알림창 팝업을 띄워주는 함수
+```js
+// main.js
+
+window.onload = function() {
+    alert("Start!!!!!");
 }
 ```
 
