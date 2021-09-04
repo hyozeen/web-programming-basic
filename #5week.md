@@ -55,5 +55,9 @@ window.onload = function() {
 ### Project (Naver login page)
 
 ### Homework 1
-1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week5-1 이라는 폴더를 만들고 코드 올리세요.
+1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week4-2 에 이어서 작업합니다
+![Screenshot 2021-09-04 at 09 55 15](https://user-images.githubusercontent.com/86503646/132077163-ef9ad314-e4d6-4ce1-9905-1ff9ee31c2cc.png)
+2) 카드팩 이미지는 아래에서 다운로드 하세요
+[cardpack.png.zip](https://github.com/hyozeen/web-programming-basic/files/7108976/cardpack.png.zip)
+
 
