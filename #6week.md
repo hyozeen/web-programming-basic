@@ -45,12 +45,12 @@ window.onload = function() {
 
 ![Screenshot 2021-08-28 at 18 16 53](https://user-images.githubusercontent.com/86503646/131212999-23127bbb-1b81-4443-8228-25d3c1f4346d.png)
 
-### HTML Formatting
-- https://www.w3schools.com/html/html_formatting.asp
+### JS Data Types
+- https://www.w3schools.com/js/js_datatypes.asp
+- https://www.w3schools.com/js/js_objects.asp
+- https://www.w3schools.com/js/js_arrays.asp
+- https://www.w3schools.com/js/js_booleans.asp
 
-### CSS Backgrounds (attachment, shorthand)
-- https://www.w3schools.com/css/css_background_attachment.asp
-- https://www.w3schools.com/css/css_background_shorthand.asp
 
 ### Project (Naver login page)
 
