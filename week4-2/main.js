@@ -30,3 +30,7 @@ function getRandomNumber(min, max) {
     const random = Math.floor(Math.random() * (max - min + 1)) + min;
     return random;
 }
+
+function clickCardpack() {
+    alert('카드팩이 열렸습니다!');
+}
