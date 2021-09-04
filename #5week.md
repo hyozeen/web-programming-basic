@@ -52,12 +52,6 @@ window.onload = function() {
 - https://www.w3schools.com/css/css_background_attachment.asp
 - https://www.w3schools.com/css/css_background_shorthand.asp
 
-### JS Data Types
-- https://www.w3schools.com/js/js_datatypes.asp
-- https://www.w3schools.com/js/js_objects.asp
-- https://www.w3schools.com/js/js_arrays.asp
-- https://www.w3schools.com/js/js_booleans.asp
-
 ### Project (Naver login page)
 
 ### Homework 1
