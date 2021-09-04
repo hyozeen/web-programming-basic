@@ -12,12 +12,12 @@ window.onload = function() {
     // 여기가 시작점 입니다
 }
 ```
-- onClick (마우스로 클릭할 때) : 모든 tag들에 다 적용됨
+- onclick (마우스로 클릭할 때) : 모든 tag들에 다 적용됨
 
 ```html
 <!-- index.html -->
 
-<button onClick="clickButton()">클릭</button>
+<button onclick="clickButton()">클릭</button>
 ```
 
 ```js
