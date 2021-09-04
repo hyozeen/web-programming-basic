@@ -56,7 +56,7 @@ window.onload = function() {
 
 ### Homework 1
 1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week4-2 에 이어서 작업합니다
-![Screenshot 2021-09-04 at 09 55 15](https://user-images.githubusercontent.com/86503646/132077163-ef9ad314-e4d6-4ce1-9905-1ff9ee31c2cc.png)
+![Screenshot 2021-09-04 at 09 55 11](https://user-images.githubusercontent.com/86503646/132077198-6bc67deb-f708-4574-a504-81677f8bb730.png)
 2) 카드팩 이미지는 아래에서 다운로드 하세요
 [cardpack.png.zip](https://github.com/hyozeen/web-programming-basic/files/7108976/cardpack.png.zip)
 
