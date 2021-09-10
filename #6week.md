@@ -49,6 +49,12 @@ window.onload = function() {
 #### HTML Comments
 - https://www.w3schools.com/html/html_comments.asp
 #### CSS Comments
+- https://www.w3schools.com/css/css_comments.asp
+#### JS Comments
+- https://www.w3schools.com/js/js_comments.asp
+
+### HTML Links
+- https://www.w3schools.com/html/html_links.asp
 
 ### JS Data Types
 - https://www.w3schools.com/js/js_datatypes.asp
