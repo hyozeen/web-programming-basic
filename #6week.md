@@ -1,6 +1,6 @@
 # web-programming-basic
 
-## 5 Week
+## 6 Week
 
 ### Javascript 시작하기
 - window.onload (시작점) : 우리가 html에서 열심히 만든 tag들을 브라우저에서 다 읽어오고 난 시점.
@@ -44,6 +44,11 @@ window.onload = function() {
 ```
 
 ![Screenshot 2021-08-28 at 18 16 53](https://user-images.githubusercontent.com/86503646/131212999-23127bbb-1b81-4443-8228-25d3c1f4346d.png)
+
+### Comments (HTML, CSS, JS)
+#### HTML Comments
+- https://www.w3schools.com/html/html_comments.asp
+#### CSS Comments
 
 ### JS Data Types
 - https://www.w3schools.com/js/js_datatypes.asp
