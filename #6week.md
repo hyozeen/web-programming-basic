@@ -56,6 +56,9 @@ window.onload = function() {
 ### HTML Links
 - https://www.w3schools.com/html/html_links.asp
 
+### HTML Images
+- https://www.w3schools.com/html/html_images.asp
+
 ### CSS Borders
 - https://www.w3schools.com/css/css_border.asp
 
