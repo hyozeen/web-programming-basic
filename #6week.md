@@ -109,4 +109,5 @@ window.onload = function() {
 
 ### Homework 1
 1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week6-1 이라는 폴더를 만들고 코드 올리세요. (이전에 했던 프로젝트에다 해도 됩니다)
+![Sep-11-2021 09-33-39](https://user-images.githubusercontent.com/86503646/132930253-81d5e37c-c13b-4aa1-a33b-7b3a47c469bd.gif)
 
