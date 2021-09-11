@@ -75,6 +75,7 @@
   ```
 
 ### Comments (HTML, CSS, JS)
+<kdb>cmd + /</kbd>
 #### HTML Comments
 - https://www.w3schools.com/html/html_comments.asp
 #### CSS Comments
