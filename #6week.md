@@ -108,5 +108,5 @@ window.onload = function() {
 ### Project (Naver login page)
 
 ### Homework 1
-1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week5-1 이라는 폴더를 만들고 코드 올리세요.
+1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week6-1 이라는 폴더를 만들고 코드 올리세요. (이전에 했던 프로젝트에다 해도 됩니다)
 
