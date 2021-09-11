@@ -1,89 +1,103 @@
+let resultEl;
 let result = 0;
-const outputEl = document.getElementById('output');
+let currentNumber = 0;
 
-const pressAc = () => {
+window.onload = function () {
+    resultEl = document.getElementById('result');
+};
+
+function pressAc() {
     console.log('press Ac');
     result = 0;
-    displayResult('');
-};
+    currentNumber = 0;
+    displayResult();
+}
 
-const pressPlusMinus = () => {
-    result = result + 0;
+function pressPlusMinus() {
     console.log('press PlusMinus');
-};
+}
 
-const pressPercent = () => {
+function pressPercent() {
     console.log('press Percent');
-};
+}
 
-const pressDivision = () => {
+function pressDivision() {
     console.log('press Division');
-};
+}
 
-const press7 = () => {
+function press7() {
     console.log('press 7');
-};
+    currentNumber = 7;
+}
 
-const press8 = () => {
+function press8() {
     console.log('press 8');
-};
+    currentNumber = 8;
+}
 
-const press9 = () => {
+function press9() {
     console.log('press 9');
-};
+    currentNumber = 9;
+}
 
-const pressMultiply = () => {
+function pressMultiply() {
     console.log('press Multiply');
-};
+}
 
-const press4 = () => {
+function press4() {
     console.log('press 4');
-};
+    currentNumber = 4;
+}
 
-const press5 = () => {
+function press5() {
     console.log('press 5');
-};
+    currentNumber = 5;
+}
 
-const press6 = () => {
+function press6() {
     console.log('press 6');
-};
+    currentNumber = 6;
+}
 
-const pressMinus = () => {
+function pressMinus() {
     console.log('press Minus');
-};
+    result = result - currentNumber;
+}
 
-const pressAc = () => {
-    console.log('press Ac');
-};
-
-const press1 = () => {
+function press1() {
     console.log('press 1');
-};
+    currentNumber = 1;
+}
 
-const press2 = () => {
+function press2() {
     console.log('press 2');
-};
+    currentNumber = 2;
+}
 
-const press3 = () => {
+function press3() {
     console.log('press 3');
-};
-const pressPlus = () => {
+    currentNumber = 3;
+}
+function pressPlus() {
     console.log('press Plus');
-};
+    result = result + currentNumber;
+}
 
-const press0 = () => {
+function press0() {
     console.log('press 0');
-};
+    currentNumber = 0;
+}
 
-const pressPoint = () => {
+function pressPoint() {
     console.log('press Point');
-};
+}
 
-const pressEqual = () => {
+function pressEqual() {
     console.log('press Equal');
-    displayResult(result);
-};
+    displayResult();
+    currentNumber = 0;
+}
 
-const displayResult = (message) => {
-    outputEl.innerHTML = message;
-};
+function displayResult() {
+    resultEl.innerText = result;
+}

@@ -1,11 +1,11 @@
-let firstCardElement;
-let secondCardElement;
-let thirdCardElement;
-
 window.onload = function () {
-    firstCardElement = document.getElementById('first-card');
-    secondCardElement = document.getElementById('second-card');
-    thirdCardElement = document.getElementById('third-card');
+    let firstCard = document.getElementById('first-card');
+    let secondCard = document.getElementById('second-card');
+    let thirdCard = document.getElementById('third-card');
+
+    firstCard.hidden = true;
+    secondCard.hidden = true;
+    thirdCard.hidden = true;
 };
 
 function clickFirstCard() {
@@ -32,5 +32,14 @@ function getRandomNumber(min, max) {
 }
 
 function clickCardpack() {
-    alert('카드팩이 열렸습니다!');
+    //alert('카드팩이 열렸습니다!');
+    let firstCard = document.getElementById('first-card');
+    let secondCard = document.getElementById('second-card');
+    let thirdCard = document.getElementById('third-card');
+    let cardMessage = document.getElementById('card-message');
+
+    firstCard.hidden = false;
+    secondCard.hidden = false;
+    thirdCard.hidden = false;
+    cardMessage.innerText = '카드가 열렸습니다!';
 }

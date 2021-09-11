@@ -21,24 +21,12 @@ main {
 }
 
 section {
-    width: 33.3%;
-    height: 100%;
+    width: 100%;
+    height: auto;
     float: left;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-}
-
-#first-card {
-    background-image: url('images/card/card0.png');
-}
-
-#second-card {
-    background-image: url('images/card/card1.png');
-}
-
-#third-card {
-    background-image: url('images/card/card2.png');
 }
 
 footer {
