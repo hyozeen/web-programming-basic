@@ -2,35 +2,77 @@
 
 ## 6 Week
 
-### Javascript 시작하기
-- window.onload (시작점) : 우리가 html에서 열심히 만든 tag들을 브라우저에서 다 읽어오고 난 시점.
-```js
-// main.js
+### Javascript로 HTML DOM 조작하기
+- https://www.w3schools.com/js/js_htmldom_html.asp
+- document
+  : 브라우저가 불러온 웹 페이지를 나타낸다
+  - https://developer.mozilla.org/ko/docs/Web/API/Document
+  ![Screenshot 2021-09-11 at 08 47 55](https://user-images.githubusercontent.com/86503646/132928382-fece322f-15c5-4f7c-9ddb-8327eaaaca1f.png)
 
-window.onload = function() {
-    // 이 코드를 복사해서 항상 main.js에 붙여넣습니다
-    // 여기가 시작점 입니다
-}
-```
-- onclick (마우스로 클릭할 때) : 모든 tag들에 다 적용됨
 
-```html
-<!-- index.html -->
+#### javascript에서 element id로 html 조작하기 
+- element 가져와서 test 라는 변수에 담기
+  ```html
+  <!-- index.html -->
+  <h1 id="example">Hello</h1>
+  ```
+  
+  ```js
+  // main.js
+  let test = document.getElementById("example");
+  ```
+  - https://developer.mozilla.org/ko/docs/Web/API/Document/getElementById
+  
+- element를 숨기기
+  ```html
+  <!-- index.html -->
+  <h1 id="example">Hello</h1>
+  ```
+  
+  ```js
+  // main.js
+  let test = document.getElementById("example");
+  test.hidden = true;
+  ```
+  
+- element를 나타나게 하기
 
-<button onclick="clickButton()">클릭</button>
-```
+  ```html
+  <!-- index.html -->
+  <h1 id="example">Hello</h1>
+  ```
+  
+  ```js
+  // main.js
+  let test = document.getElementById("example");
+  test.hidden = false;
+  ```
+  
+- element의 글자의 내용 바꾸기
 
-```js
-// main.js
+  ```html
+  <!-- index.html -->
+  <h1 id="example">Hello</h1>
+  ```
+  
+  ```js
+  // main.js
+  let test = document.getElementById("example");
+  test.innerText = "Bye";
+  ```
+  
+- image element의 그림 바꾸기
 
-function clickButton() {
-    // 마우스를 클릭할 때, 불리는 곳입니다.
-}
-```
-
-![Screenshot 2021-08-28 at 18 18 53](https://user-images.githubusercontent.com/86503646/131213067-b56d8a28-cb39-4d50-a90e-f4d073b8298f.png)
-![Screenshot 2021-08-28 at 18 19 03](https://user-images.githubusercontent.com/86503646/131213072-9a0cac2a-3564-4b3c-9ecb-5222ed4a8cc8.png)
-
+  ```html
+  <!-- index.html -->
+  <img id="example" src="https://hyozeen.github.io/web-programming-basic/week4-2/images/cardpack.png">
+  ```
+  
+  ```js
+  // main.js
+  let test = document.getElementById("example");
+  test.src = "https://hyozeen.github.io/web-programming-basic/week4-2/images/card/card0.png";
+  ```
 
 - alert 함수
 알림창 팝업을 띄워주는 함수
@@ -61,12 +103,6 @@ window.onload = function() {
 
 ### CSS Borders
 - https://www.w3schools.com/css/css_border.asp
-
-### JS Data Types
-- https://www.w3schools.com/js/js_datatypes.asp
-- https://www.w3schools.com/js/js_objects.asp
-- https://www.w3schools.com/js/js_arrays.asp
-- https://www.w3schools.com/js/js_booleans.asp
 
 
 ### Project (Naver login page)
