@@ -74,19 +74,6 @@
   test.src = "https://hyozeen.github.io/web-programming-basic/week4-2/images/card/card0.png";
   ```
 
-- alert 함수
-알림창 팝업을 띄워주는 함수
-
-```js
-// main.js
-
-window.onload = function() {
-    alert("Start!!!!!");
-}
-```
-
-![Screenshot 2021-08-28 at 18 16 53](https://user-images.githubusercontent.com/86503646/131212999-23127bbb-1b81-4443-8228-25d3c1f4346d.png)
-
 ### Comments (HTML, CSS, JS)
 #### HTML Comments
 - https://www.w3schools.com/html/html_comments.asp
