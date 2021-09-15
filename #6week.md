@@ -100,4 +100,10 @@
 - ![Sep-11-2021 09-33-39](https://user-images.githubusercontent.com/86503646/132930253-81d5e37c-c13b-4aa1-a33b-7b3a47c469bd.gif)
 - cardpack을 누르면 "카드팩이 열렸습니다!" 메세지와 함께 카드 3장을 나타나게 하세요.
 - card image는 아래에서 다운로드 받으세요
-[cards.zip](https://github.com/hyozeen/web-programming-basic/files/7146942/cards.zip)
+- [cards.zip](https://github.com/hyozeen/web-programming-basic/files/7146942/cards.zip)
+
+### Homework 2
+1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week6-2 이라는 폴더를 만들고 코드 올리세요. (이전에 했던 프로젝트에다 해도 됩니다)
+- ![Sep-15-2021 17-57-11](https://user-images.githubusercontent.com/86503646/133403841-ade9fdd4-fcad-47f0-899c-3d97b501cfad.gif)
+- card 뒷면 이미지는 아래에서 다운로드 받으세요
+- [cardback.zip](https://github.com/hyozeen/web-programming-basic/files/7168553/cardback.zip)
