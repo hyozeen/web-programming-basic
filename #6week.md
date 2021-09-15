@@ -75,6 +75,7 @@
   ```
 
 ### Comments (HTML, CSS, JS)
+<kdb>cmd + /</kbd>
 #### HTML Comments
 - https://www.w3schools.com/html/html_comments.asp
 #### CSS Comments
@@ -100,4 +101,3 @@
 - cardpack을 누르면 "카드팩이 열렸습니다!" 메세지와 함께 카드 3장을 나타나게 하세요.
 - card image는 아래에서 다운로드 받으세요
 [cards.zip](https://github.com/hyozeen/web-programming-basic/files/7146942/cards.zip)
-
