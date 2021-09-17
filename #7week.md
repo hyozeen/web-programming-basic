@@ -2,96 +2,51 @@
 
 ## 7 Week
 
-### Javascript로 HTML DOM 조작하기
-- https://www.w3schools.com/js/js_htmldom_html.asp
-- document
-  : 브라우저가 불러온 웹 페이지를 나타낸다
-  - https://developer.mozilla.org/ko/docs/Web/API/Document
-  ![Screenshot 2021-09-11 at 08 47 55](https://user-images.githubusercontent.com/86503646/132928382-fece322f-15c5-4f7c-9ddb-8327eaaaca1f.png)
+### Javascript (alert, console.log, confirm, prompt)
 
+#### alert (알림창 띄워주는 함수)
 
-#### javascript에서 element id로 html 조작하기 
-- element 가져와서 test 라는 변수에 담기
-  ```html
-  <!-- index.html -->
-  <h1 id="example">Hello</h1>
-  ```
-  
-  ```js
-  // main.js
-  let test = document.getElementById("example");
-  ```
-  - https://developer.mozilla.org/ko/docs/Web/API/Document/getElementById
-  
-- element를 숨기기
-  ```html
-  <!-- index.html -->
-  <h1 id="example">Hello</h1>
-  ```
-  
-  ```js
-  // main.js
-  let test = document.getElementById("example");
-  test.hidden = true;
-  ```
-  
-- element를 나타나게 하기
-
-  ```html
-  <!-- index.html -->
-  <h1 id="example">Hello</h1>
-  ```
-  
-  ```js
-  // main.js
-  let test = document.getElementById("example");
-  test.hidden = false;
-  ```
-  
-- element의 글자의 내용 바꾸기
-
-  ```html
-  <!-- index.html -->
-  <h1 id="example">Hello</h1>
-  ```
-  
-  ```js
+```js
   // main.js
   let test = document.getElementById("example");
   test.innerText = "Bye";
-  ```
-  
-- image element의 그림 바꾸기
+```
 
-  ```html
-  <!-- index.html -->
-  <img id="example" src="https://hyozeen.github.io/web-programming-basic/week4-2/images/cardpack.png">
-  ```
-  
-  ```js
+#### console.log (개발자도구에 메세지를 보여주는 함수)
+
+```js
   // main.js
   let test = document.getElementById("example");
-  test.src = "https://hyozeen.github.io/web-programming-basic/week4-2/images/card/card0.png";
-  ```
+  test.innerText = "Bye";
+```
 
-### Comments (HTML, CSS, JS)
-<kdb>cmd + /</kbd>
-#### HTML Comments
-- https://www.w3schools.com/html/html_comments.asp
-#### CSS Comments
-- https://www.w3schools.com/css/css_comments.asp
-#### JS Comments
-- https://www.w3schools.com/js/js_comments.asp
+#### confirm (확인창 띄워주는 함수)
 
-### HTML Links
-- https://www.w3schools.com/html/html_links.asp
+```js
+  // main.js
+  let test = document.getElementById("example");
+  test.innerText = "Bye";
+```
 
-### HTML Images
-- https://www.w3schools.com/html/html_images.asp
+#### prompt (질문창 띄워주는 함수)
 
-### CSS Borders
-- https://www.w3schools.com/css/css_border.asp
+```js
+  // main.js
+  let test = document.getElementById("example");
+  test.innerText = "Bye";
+```
 
+### JS Functions
+- https://www.w3schools.com/js/js_functions.asp
+
+### HTML Images (picture)
+- https://www.w3schools.com/html/html_images_picture.asp
+
+### CSS Margins
+- https://www.w3schools.com/css/css_margin.asp
+
+### CSS Padding
+- https://www.w3schools.com/css/css_padding.asp
 
 ### Project (Naver login page)
 
