@@ -8,32 +8,42 @@
 
 ```js
   // main.js
-  let test = document.getElementById("example");
-  test.innerText = "Bye";
+  window.onload = function() {
+      alert("알림창 입니다.");
+  }
 ```
 
 #### console.log (개발자도구에 메세지를 보여주는 함수)
 
 ```js
   // main.js
-  let test = document.getElementById("example");
-  test.innerText = "Bye";
+  window.onload = function() {
+      console.log("여기는 시작점입니다.");
+  }
 ```
 
 #### confirm (확인창 띄워주는 함수)
+사용자가 확인 또는 취소를 누를때까지 팝업창이 띄워져있습니다.
+사용자가 `확인` 버튼을 누르면 true, `취소` 버튼이나 <kbd>Esc</kbd> 를 누르면 false를 return 합니다.
 
 ```js
   // main.js
-  let test = document.getElementById("example");
-  test.innerText = "Bye";
+  window.onload = function() {
+      let result = confirm("홈페이지에 접속하시겠습니까?")
+      console.log(result);
+  }
 ```
 
 #### prompt (질문창 띄워주는 함수)
+사용자에게 텍스트를 입력하라는 메세지를 띄워줌과 동시에, input 창을 띄워줍니다.
+`확인` 버튼을 누르면 사용자가 입력한 값을 return 하고, `취소` 버튼이나 <kbd>Esc</kbd> 를 누르면 null을 반환합니다.
 
 ```js
   // main.js
-  let test = document.getElementById("example");
-  test.innerText = "Bye";
+  window.onload = function() {
+      let result = prompt("당신의 이름은 무엇인가요?", "");
+      console.log(result);
+  }
 ```
 
 ### JS Functions
