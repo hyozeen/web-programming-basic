@@ -73,6 +73,7 @@
 
 ### CSS Margins
 - https://www.w3schools.com/css/css_margin.asp
+- https://www.w3schools.com/css/exercise.asp?filename=exercise_margin1
 
 ### CSS Padding
 - https://www.w3schools.com/css/css_padding.asp
