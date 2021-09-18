@@ -71,9 +71,6 @@
 ### JS Functions
 - https://www.w3schools.com/js/js_functions.asp
 
-### HTML Images (picture)
-- https://www.w3schools.com/html/html_images_picture.asp
-
 ### CSS Margins
 - https://www.w3schools.com/css/css_margin.asp
 
