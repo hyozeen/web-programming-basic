@@ -39,17 +39,13 @@
 ```
 
 사용자가 확인 또는 취소를 누를때까지 팝업창이 띄워져있습니다.
-
 - ![Screenshot 2021-09-18 at 08 59 11](https://user-images.githubusercontent.com/86503646/133864751-aaba61bd-9a3e-4ae3-9d85-b4ecc9a9c02e.png)
 
 사용자가 `확인` 버튼을 누르면 true, 
-
 - ![Screenshot 2021-09-18 at 08 59 22](https://user-images.githubusercontent.com/86503646/133864756-6fbaf3bf-aa23-41d2-bcd1-561675e51615.png)
 
 `취소` 버튼이나 <kbd>Esc</kbd> 를 누르면 false를 return 합니다.
-
 - ![Screenshot 2021-09-18 at 08 59 41](https://user-images.githubusercontent.com/86503646/133864759-6c683b5b-c8c7-4b1a-8323-de02b5bb2428.png)
-
 
 
 #### prompt (질문창 띄워주는 함수)
@@ -63,12 +59,13 @@
 ```
 
 사용자에게 텍스트를 입력하라는 메세지를 띄워줌과 동시에, input 창을 띄워줍니다.
-
+- ![Screenshot 2021-09-18 at 09 05 01](https://user-images.githubusercontent.com/86503646/133864895-03062ba9-cf1b-46fe-aa9b-51cb1938d6c6.png)
 
 `확인` 버튼을 누르면 사용자가 입력한 값을 return 하고,
-
+- ![Screenshot 2021-09-18 at 09 05 59](https://user-images.githubusercontent.com/86503646/133864937-e87b4b1f-a15d-47c2-8acb-e79b09dac6ba.png)
 
 `취소` 버튼이나 <kbd>Esc</kbd> 를 누르면 null을 반환합니다.
+- ![Screenshot 2021-09-18 at 09 06 12](https://user-images.githubusercontent.com/86503646/133864943-dfbe9215-3ad1-475f-af9b-740e20f36138.png)
 
 
 ### JS Functions
