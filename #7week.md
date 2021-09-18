@@ -5,6 +5,7 @@
 ### Javascript (alert, console.log, confirm, prompt)
 
 #### alert (알림창 띄워주는 함수)
+![Screenshot 2021-09-18 at 08 57 15](https://user-images.githubusercontent.com/86503646/133864726-2fb97e7c-6d16-4883-a80e-af18d27d67e1.png)
 
 ```js
   // main.js
@@ -14,6 +15,7 @@
 ```
 
 #### console.log (개발자도구에 메세지를 보여주는 함수)
+![Screenshot 2021-09-18 at 08 57 49](https://user-images.githubusercontent.com/86503646/133864732-c26449b8-36f8-4817-a8b5-71a831be69b8.png)
 
 ```js
   // main.js
@@ -24,7 +26,13 @@
 
 #### confirm (확인창 띄워주는 함수)
 사용자가 확인 또는 취소를 누를때까지 팝업창이 띄워져있습니다.
-사용자가 `확인` 버튼을 누르면 true, `취소` 버튼이나 <kbd>Esc</kbd> 를 누르면 false를 return 합니다.
+![Screenshot 2021-09-18 at 08 59 11](https://user-images.githubusercontent.com/86503646/133864751-aaba61bd-9a3e-4ae3-9d85-b4ecc9a9c02e.png)
+
+사용자가 `확인` 버튼을 누르면 true, 
+![Screenshot 2021-09-18 at 08 59 22](https://user-images.githubusercontent.com/86503646/133864756-6fbaf3bf-aa23-41d2-bcd1-561675e51615.png)
+
+`취소` 버튼이나 <kbd>Esc</kbd> 를 누르면 false를 return 합니다.
+![Screenshot 2021-09-18 at 08 59 41](https://user-images.githubusercontent.com/86503646/133864759-6c683b5b-c8c7-4b1a-8323-de02b5bb2428.png)
 
 ```js
   // main.js
@@ -36,7 +44,13 @@
 
 #### prompt (질문창 띄워주는 함수)
 사용자에게 텍스트를 입력하라는 메세지를 띄워줌과 동시에, input 창을 띄워줍니다.
-`확인` 버튼을 누르면 사용자가 입력한 값을 return 하고, `취소` 버튼이나 <kbd>Esc</kbd> 를 누르면 null을 반환합니다.
+
+
+`확인` 버튼을 누르면 사용자가 입력한 값을 return 하고,
+
+
+`취소` 버튼이나 <kbd>Esc</kbd> 를 누르면 null을 반환합니다.
+
 
 ```js
   // main.js
