@@ -77,6 +77,7 @@
 
 ### CSS Padding
 - https://www.w3schools.com/css/css_padding.asp
+- https://www.w3schools.com/css/exercise.asp?filename=exercise_padding1
 
 ### Project (Naver login page)
 
