@@ -71,14 +71,6 @@
 ### JS Functions
 - https://www.w3schools.com/js/js_functions.asp
 
-### CSS Margins
-- https://www.w3schools.com/css/css_margin.asp
-- https://www.w3schools.com/css/exercise.asp?filename=exercise_margin1
-
-### CSS Padding
-- https://www.w3schools.com/css/css_padding.asp
-- https://www.w3schools.com/css/exercise.asp?filename=exercise_padding1
-
 ### Project (Naver login page)
 
 ### Homework 1
