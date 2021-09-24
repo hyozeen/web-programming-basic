@@ -70,5 +70,14 @@ function showGugudan(number) {
 
 #### Homework 2
 1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week8-2 이라는 폴더를 만들고 코드 올리세요.
-2) 단, 개발자 도구에서 다음과 같은 margin/padding 모양이 나오도록 합니다.
+2) 아래의 html을 복사해서 만듭니다.
+```html
+<body>
+    <h1>To-Do List</h1>
+    <div class="container">
+        <!-- 여기에는 List -->
+    </div>
+</body>
+```
+3) 단, 개발자 도구에서 container class를 가진 div element가 다음과 같은 margin/padding 모양이 나오도록 합니다.
 - ![Screenshot 2021-09-25 at 08 54 27](https://user-images.githubusercontent.com/86503646/134750387-70c9b576-e28f-467d-a80e-8ce37069b091.png)
