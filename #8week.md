@@ -4,6 +4,9 @@
 
 ### 개발자도구 
 
+### HTML Lists
+https://www.w3schools.com/html/html_lists.asp
+
 ### CSS Margins
 - https://www.w3schools.com/css/css_margin.asp
 - https://www.w3schools.com/css/exercise.asp?filename=exercise_margin1
