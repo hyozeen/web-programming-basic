@@ -6,6 +6,7 @@
 
 ### HTML Lists
 https://www.w3schools.com/html/html_lists.asp
+https://www.w3schools.com/html/exercise.asp?filename=exercise_html_lists1
 
 ### CSS Margins
 - https://www.w3schools.com/css/css_margin.asp
