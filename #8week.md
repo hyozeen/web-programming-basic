@@ -32,7 +32,7 @@
 
 ### Project
 
-### Homework 1
+#### Homework 1
 1) 아래 조건을 만족하는 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week8-1 이라는 폴더를 만들고 코드 올리세요.
 2) HTML의 body는 다음과 같습니다
 ```html
@@ -67,3 +67,5 @@ function showGugudan(number) {
 - ![Sep-25-2021 08-22-27](https://user-images.githubusercontent.com/86503646/134748898-67bf68de-5999-4763-9107-fa95bc4d42d9.gif)
 
 4) 단, week7-1 과는 다르게 반복되는 부분에 대해서 for 구문을 사용하도록 합니다.
+
+#### Homework 2
