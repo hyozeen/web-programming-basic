@@ -69,3 +69,4 @@ function showGugudan(number) {
 4) 단, week7-1 과는 다르게 반복되는 부분에 대해서 for 구문을 사용하도록 합니다.
 
 #### Homework 2
+1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week8-2 이라는 폴더를 만들고 코드 올리세요.
