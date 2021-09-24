@@ -12,7 +12,7 @@
 - https://www.w3schools.com/css/css_padding.asp
 - https://www.w3schools.com/css/exercise.asp?filename=exercise_padding1
 
-### Project (Naver login page)
+### Project
 
 ### Homework 1
 1) 아래 조건을 만족하는 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week7-1 이라는 폴더를 만들고 코드 올리세요.
