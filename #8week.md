@@ -5,8 +5,8 @@
 ### 개발자도구 
 
 ### HTML Lists
-https://www.w3schools.com/html/html_lists.asp
-https://www.w3schools.com/html/exercise.asp?filename=exercise_html_lists1
+- https://www.w3schools.com/html/html_lists.asp
+- https://www.w3schools.com/html/exercise.asp?filename=exercise_html_lists1
 
 ### CSS Margins
 - https://www.w3schools.com/css/css_margin.asp
@@ -15,6 +15,18 @@ https://www.w3schools.com/html/exercise.asp?filename=exercise_html_lists1
 ### CSS Padding
 - https://www.w3schools.com/css/css_padding.asp
 - https://www.w3schools.com/css/exercise.asp?filename=exercise_padding1
+
+### JS
+#### Functions
+- https://www.w3schools.com/js/js_functions.asp
+
+#### Arrays
+- https://www.w3schools.com/js/js_arrays.asp
+- https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_arrays1
+
+#### For loops
+- https://www.w3schools.com/js/js_loop_for.asp
+- https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_loops1
 
 ### Project
 
