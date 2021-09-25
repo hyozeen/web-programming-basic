@@ -3,6 +3,7 @@
 ## 8 Week
 
 ### 개발자도구 
+![Screenshot 2021-09-25 at 09 32 21](https://user-images.githubusercontent.com/86503646/134751785-2ebe69c1-3bd0-455f-a355-a383347ab856.png)
 
 ### HTML
 #### Lists
