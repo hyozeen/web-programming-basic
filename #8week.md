@@ -70,10 +70,10 @@ function showGugudan(number) {
 
 #### Homework 2
 1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week8-2 이라는 폴더를 만들고 코드 올리세요.
-- ![Screenshot 2021-09-25 at 09 10 59](https://user-images.githubusercontent.com/86503646/134751068-05c13422-4570-4361-8022-f4390ee19731.png)
+- ![Screenshot 2021-09-25 at 09 16 14](https://user-images.githubusercontent.com/86503646/134751284-1fc6cb19-4cec-4e81-baa0-c2d0260f78ef.png)
 
 - 브라우저 창 너비를 최소로 했을 때
-- ![Screenshot 2021-09-25 at 09 11 10](https://user-images.githubusercontent.com/86503646/134751071-321ed775-c080-4b8f-b9d7-392d2650a887.png)
+- ![Screenshot 2021-09-25 at 09 16 22](https://user-images.githubusercontent.com/86503646/134751292-eb94032c-1c97-447f-ac96-1d4590a72fbe.png)
 
 2) 아래의 html을 복사해서 만듭니다.
 ```html
@@ -85,6 +85,6 @@ function showGugudan(number) {
 </body>
 ```
 3) list item style는 네모 모양으로 합니다.
-4) ordered list의 item은 오전 `i`부터 시작, 오후 `a`부터 시작하도록 합니다.
+4) ordered list의 item은 오전은 `i`부터 시작, 오후는 `a`부터 시작하도록 합니다.
 5) 단, 개발자 도구에서 container class를 가진 div element가 다음과 같은 margin/padding 모양이 나올 수 있도록 만들어야 합니다.
 - ![Screenshot 2021-09-25 at 08 54 27](https://user-images.githubusercontent.com/86503646/134750387-70c9b576-e28f-467d-a80e-8ce37069b091.png)
