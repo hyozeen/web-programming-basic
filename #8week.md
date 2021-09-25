@@ -85,5 +85,6 @@ function showGugudan(number) {
 </body>
 ```
 3) list item style는 네모 모양으로 합니다.
-4) 단, 개발자 도구에서 container class를 가진 div element가 다음과 같은 margin/padding 모양이 나올 수 있도록 만들어야 합니다.
+4) ordered list의 item은 오전 `i`부터 시작, 오후 `a`부터 시작하도록 합니다.
+5) 단, 개발자 도구에서 container class를 가진 div element가 다음과 같은 margin/padding 모양이 나올 수 있도록 만들어야 합니다.
 - ![Screenshot 2021-09-25 at 08 54 27](https://user-images.githubusercontent.com/86503646/134750387-70c9b576-e28f-467d-a80e-8ce37069b091.png)
