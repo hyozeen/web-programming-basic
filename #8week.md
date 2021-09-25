@@ -70,6 +70,10 @@ function showGugudan(number) {
 
 #### Homework 2
 1) 아래 모양과 동일한 코드를 작성해서 github에 올리세요. 단, web-programming-basic/week8-2 이라는 폴더를 만들고 코드 올리세요.
+- ![Screenshot 2021-09-25 at 09 03 25](https://user-images.githubusercontent.com/86503646/134750754-cfcd266f-2547-4885-9235-c57a07080436.png)
+- 브라우저 창 너비를 최소로 했을 때
+- ![Screenshot 2021-09-25 at 09 03 13](https://user-images.githubusercontent.com/86503646/134750802-f5be71f1-f21e-466f-9eb6-20ade8c1eaea.png)
+
 2) 아래의 html을 복사해서 만듭니다.
 ```html
 <body>
