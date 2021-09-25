@@ -23,6 +23,9 @@
 #### Functions
 - https://www.w3schools.com/js/js_functions.asp
 
+#### Arrays
+- https://www.w3schools.com/js/js_arrays.asp
+
 #### For loops
 - https://www.w3schools.com/js/js_loop_for.asp
 - https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_loops1
